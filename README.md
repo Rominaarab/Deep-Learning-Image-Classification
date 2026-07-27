@@ -1,5 +1,3 @@
-Here is a complete, polished **README.md** specifically tailored for this **Histopathological Lung Cancer Image Classification** project, following the same structure and formatting as your previous PyTorch README.
-
 ---
 
 # Deep Learning Pipeline for Histopathological Lung Cancer Classification
